@@ -10,10 +10,14 @@
       "image_data_version":"1",
       "avoid_cache":false,
       "publisher_email":"sourashtraworld@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": "https://www.sourashtraworld.in/",
+      "privacy_policy_website": "https://www.sourashtraworld.in/about-us/",
+      "license_agreement_website": "https://www.youtube.com/channel/UC7SJD4nUCK9b3zvvHo31I_w",
       "stickers": [
+        {
+          "image_file": "output-onlinepngtools.webp",
+          "emojis": ["✨","🤮"]
+        },
         {
           "image_file": "01_Cuppy_smile.webp",
           "emojis": ["☕","🙂"]
@@ -113,7 +117,12 @@
         {
           "image_file": "25_Cuppy_battery.webp",
           "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "e11c926a-ecac-40a6-b2bb-5a0648fe64ce.webp",
+          "emojis": ["👋","😵"]
         }
+
       ]
     }
   ]

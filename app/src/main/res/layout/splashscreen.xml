@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+    android:background="#f1f1f1">
+
+   <!-- <ImageView
+        android:id="@+id/logo"
+        android:layout_width="107dp"
+        android:layout_height="68dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/soustickericon" /> -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="248dp"
+        android:layout_marginBottom="437dp"
+        android:gravity="center_horizontal"
+        android:text="@string/sourashtra"
+
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="296dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="389dp"
+        android:gravity="center_horizontal"
+        android:text="@string/stickers"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="73dp"
+        android:gravity="center_horizontal"
+        android:text="from"
+        android:textColor="#454545"
+        android:textSize="15dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="44dp"
+        android:gravity="center_horizontal"
+        android:text="SOURASHTRA WORLD"
+        android:textStyle="bold"
+        android:textColor="#454545"
+        android:textSize="15dp" />
+
+</RelativeLayout>

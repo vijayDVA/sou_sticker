@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.samplestickerapp;
+package com.sourashtra.samplestickerapp;
 
 import android.text.TextUtils;
 import android.util.JsonReader;
